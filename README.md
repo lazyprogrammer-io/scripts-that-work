@@ -1,4 +1,4 @@
-#Lazy scripts
+### Lazy scripts
 
 This site contains sysadmin scripts that just work, because we are very lazy, thus more productive.
 
